@@ -1,0 +1,70 @@
+﻿//Russian
+
+//Menu
+Start = Старт
+Exit = Выход
+Settings = Настройки
+Volume = Громкость
+Quality = Качество
+Very Low = Очень низкая
+Low = Низкая
+Medium = Средная
+High = Высокая
+Very High = Очень высокая
+Ultra = Максимальная
+Timer = Таймер
+Promo Code = Промо-код 
+Check = Проверить
+Select Level = Выбрать уровень
+Go = Перейти
+TEST LEVEL = Тестовый уровень
+Classic = Классика
+Endless = Бесконечный
+Multiplayer = Мультиплеер
+Version = Версия: {Version}
+Thanks = Спасибо за то, что играл в мою игру :3
+Thanks2 = Эта игра сделана на чистом энтузиазме для себя, для опыта.
+Music = Музыка:
+Credits = Данное название игры никакое не оскорбление. Просто в начале моего творческого пути в геймдев с Unity у меня было много проблем. Я создавал много пустых проектов, чтобы хотя бы один из них заработал. Названия были самые страшные и ужасные. Этот проект к счастью оказался успешным и я наконеч-то смог на нем делать игру. А название решил оставить. Не воспринимайте эту игру в серьез. Я учусь делать игры на Unity, а "игра" из этого вытекающее.
+Credits2 = Сделано Seedon
+
+//Shop
+Dayly Gift = Ежедневный подарок!!!
+Thanks You for support = Спасибо Тебе за поддержку!
+Boosters = Улучшения
+Skins = Облики
+Saves = Сохранения
+Money = Деньги: {Money}
+Home = Домой
+Speed = Скорость+
+Jump = Прыжок+
+Radar = Радар
+Double Coin = Двойные монеты
+Remove = Убрать
+Mace = Булава
+Cat = Кошка
+Sans = Санс
+Anime = Аниме
+Durka = Дурка
+Potato = Картошечка
+Click Me = Нажми на меня
+ThanksShop = Спасибо :3
+
+//UI
+Money in Level = Монет на уровне: {MoneyInLevel}
+TimerUI = Таймер: {Time}
+Level = Уровень: {Level}
+
+//Boss
+Health = Здоровье
+
+//Monetka
+Monetka = <b>Привет!</b> Извини, что задержал долг. Вот твои <color=#ffea00> {MonetkaDebt} </color> монет!
+DistancesPassed = Дистанции пройдено: {Distance}
+
+//End
+End = Это конец ... пока.
+YourTime = Твое время: {Time}
+YourCoins = Твои монетки: {Coin}
+YourDistance = Твой счет: {Score}
+ThanksForPlaying = Спасибо за игру!

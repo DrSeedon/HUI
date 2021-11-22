@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ivan\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ivan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_HUI.1951379299.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ivan\Documents\HUI" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BayatGames" t="Include">
+          <e p="Free Platform Game Assets" t="Include">
+            <e p="Readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BetterJump.cs" t="Include" />
+          <e p="Border.cs" t="Include" />
+          <e p="Boss" t="Include">
+            <e p="Audio.cs" t="Include" />
+            <e p="Boss.cs" t="Include" />
+            <e p="Buttom.cs" t="Include" />
+            <e p="Laser.cs" t="Include" />
+            <e p="Tank.cs" t="Include" />
+            <e p="TankBullet.cs" t="Include" />
+          </e>
+          <e p="CameraMan.cs" t="Include" />
+          <e p="Car" t="Include">
+            <e p="BulletCar.cs" t="Include" />
+            <e p="CarController.cs" t="Include" />
+            <e p="CarEndScene.cs" t="Include" />
+            <e p="CarEnter.cs" t="Include" />
+            <e p="MusicCar.cs" t="Include" />
+            <e p="Turret.cs" t="Include" />
+            <e p="UIIII.cs" t="Include" />
+          </e>
+          <e p="Chunk" t="Include">
+            <e p="Border2.cs" t="Include" />
+            <e p="Chunk.cs" t="Include" />
+            <e p="ChunkPlacer.cs" t="Include" />
+          </e>
+          <e p="End" t="Include">
+            <e p="End.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="Saw.cs" t="Include" />
+          </e>
+          <e p="Enemy.cs" t="Include" />
+          <e p="Hero.cs" t="Include" />
+          <e p="Main.cs" t="Include" />
+          <e p="Mario" t="Include">
+            <e p="Brick.cs" t="Include" />
+            <e p="PowerUp.cs" t="Include" />
+          </e>
+          <e p="Menu" t="Include">
+            <e p="EpicBackground.cs" t="Include" />
+            <e p="MenuScript.cs" t="Include" />
+            <e p="SelectLevel.cs" t="Include" />
+          </e>
+          <e p="More" t="Include">
+            <e p="Coin.cs" t="Include" />
+            <e p="GlobalColor.cs" t="Include" />
+            <e p="Moving.cs" t="Include" />
+            <e p="RandomSelector.cs" t="Include" />
+            <e p="Rotate.cs" t="Include" />
+            <e p="Star.cs" t="Include" />
+            <e p="StartScreen.cs" t="Include" />
+            <e p="SwarmSpawn.cs" t="Include" />
+          </e>
+          <e p="NewScene.cs" t="Include" />
+          <e p="SceneRotatoin" t="Include">
+            <e p="ExitRotation.cs" t="Include" />
+          </e>
+          <e p="Shop" t="Include">
+            <e p="Color.cs" t="Include" />
+            <e p="ProdScript.cs" t="Include" />
+            <e p="Shop.cs" t="Include" />
+            <e p="ShopArea.cs" t="Include" />
+            <e p="ShopEnter.cs" t="Include" />
+            <e p="ShopIcon.cs" t="Include" />
+          </e>
+          <e p="Test" t="Include">
+            <e p="Back.cs" t="Include" />
+            <e p="Magnet.cs" t="Include" />
+            <e p="Teleport.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Button.cs" t="Include" />
+            <e p="ButtonJump.cs" t="Include" />
+            <e p="Level.cs" t="Include" />
+            <e p="MoneyInLevel.cs" t="Include" />
+            <e p="Timer.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Tilemap" t="Include">
+          <e p="Brushes" t="Include">
+            <e p="GameObject Brush" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="GameObjectBrush.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Group Brush" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="GroupBrush.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Prefab Brush" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="PrefabBrush.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Random Brush" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="RandomBrush.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="GridInformation" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="GridInformation.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Tiles" t="Include">
+            <e p="Animated Tile" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="AnimatedTile.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Pipeline Tile" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="PipelineTile.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Random Tile" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="RandomTile.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Rule Override Tile" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="RuleOverrideTileEditor.cs" t="Include" />
+                </e>
+                <e p="RuleOverrideTile.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Rule Tile" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="CustomRuleTileMenu.cs" t="Include" />
+                  <e p="RuleTileEditor.cs" t="Include" />
+                </e>
+                <e p="RuleTile.cs" t="Include" />
+              </e>
+              <e p="ScriptTemplates" t="Include">
+                <e p="NewCustomRuleTile.cs.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Terrain Tile" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="TerrainTile.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Weighted Random Tile" t="Include">
+              <e p="WeightedRandomTile.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HUI.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,70 @@
+﻿//English
+
+//Menu
+Start = Start
+Exit = Exit
+Settings = Settings
+Volume = Volume
+Quality = Quality
+Very Low = Very Low
+Low = Low
+Medium = Medium
+High = High
+Very High = Very High
+Ultra = Ultra
+Timer = Timer
+Promo Code = Promo Code
+Check = Check
+Select Level = Select Level
+Go = Go
+TEST LEVEL = TEST LEVEL
+Classic = Classic
+Endless = Endless
+Multiplayer = Multiplayer
+Version = Version: {Version}
+Thanks = Thank you for playing my game :3  
+Thanks2 = The game is made on pure enthusiasm and mainly for myself, for experience.
+Music = Music:
+Credits = This name of the game is no insult. It's just that at the beginning of my career as a game dev with Unity, I had a lot of problems. I created many empty projects so that at least one of them works. The names were the most terrible and terrible. Fortunately, this project turned out to be successful and I could make a game on it. And I decided to leave the name. Do not take this game seriously. I am learning to make games on Unity, and the "game" from this arises.
+Credits2 = Made by Seedon
+
+//Shop
+Dayly Gift = Dayly Gift!!!
+Thanks You for support = Thanks You for support!
+Boosters = Boosters
+Skins = Skins
+Saves = Saves
+Money = Money: {Money}
+Home = Home
+Speed = Speed+
+Jump = Jump
+Radar = Radar
+Double Coin = Double Coin
+Remove = Remove
+Mace = Mace
+Cat = Cat
+Sans = Sans
+Anime = Anime
+Durka = Durka
+Potato = Potato
+Click Me = Click Me
+ThanksShop = Thanks :3
+
+//UI
+Money in Level = Money in Level: {MoneyInLevel}
+TimerUI = Timer: {Time}
+Level = Level: {Level}
+
+//Boss
+Health = Health
+
+//Monetka
+Monetka = <b>Hello!</b> Sorry to delay your debt. Here are your <color=#ffea00> {MonetkaDebt} </color> coins!
+DistancesPassed = Distances passed: {Distance}
+
+//End
+End = This is the end... for now.
+YourTime = Your time: {Time}
+YourCoins = Your coins: {Coin}
+YourDistance = Your score: {Score}
+ThanksForPlaying = Thanks for playing!
